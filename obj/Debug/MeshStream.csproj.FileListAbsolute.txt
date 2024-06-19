@@ -1,0 +1,13 @@
+F:\LamdaTest\MeshStream\MeshStream\bin\Debug\MeshStream.dll
+F:\LamdaTest\MeshStream\MeshStream\bin\Debug\MeshStream.pdb
+F:\LamdaTest\MeshStream\MeshStream\bin\Debug\AWSSDK.Core.dll
+F:\LamdaTest\MeshStream\MeshStream\bin\Debug\AWSSDK.S3.dll
+F:\LamdaTest\MeshStream\MeshStream\bin\Debug\AWSSDK.Core.pdb
+F:\LamdaTest\MeshStream\MeshStream\bin\Debug\AWSSDK.Core.xml
+F:\LamdaTest\MeshStream\MeshStream\bin\Debug\AWSSDK.S3.pdb
+F:\LamdaTest\MeshStream\MeshStream\bin\Debug\AWSSDK.S3.xml
+F:\LamdaTest\MeshStream\MeshStream\obj\Debug\MeshStream.csproj.AssemblyReference.cache
+F:\LamdaTest\MeshStream\MeshStream\obj\Debug\MeshStream.csproj.CoreCompileInputs.cache
+F:\LamdaTest\MeshStream\MeshStream\obj\Debug\MeshStream.csproj.CopyComplete
+F:\LamdaTest\MeshStream\MeshStream\obj\Debug\MeshStream.dll
+F:\LamdaTest\MeshStream\MeshStream\obj\Debug\MeshStream.pdb
